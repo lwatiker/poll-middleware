@@ -1,6 +1,6 @@
 {
-  "name": "wine-cellar",
-  "description": "Wine Cellar Application",
+  "name": "poll-server",
+  "description": "Poll Server Middleware",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
