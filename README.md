@@ -7,8 +7,9 @@ Simple middleware built on node.js and mongoDB to translate posts and gets to a 
 
 To install:
 ----
-Install mongodb. Run on default port localhost:27017.
-Start mongo server by running:
+Install mongodb and node.js.
+
+Start mongo on default port 27017 by running:
 `mongod`
 
 Install node dependencies:
